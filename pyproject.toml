@@ -1,0 +1,58 @@
+﻿[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "collectibles-valuation"
+version = "0.1.0"
+description = "Research-first multi-category collectibles valuation harness (coins, stamps, watches, trading cards, antiques)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Collectibles Valuation Contributors"}
+]
+keywords = ["collectibles", "valuation", "numismatics", "philately", "horology", "trading-cards", "appraisal"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Office/Business :: Financial",
+]
+
+dependencies = []
+
+[project.optional-dependencies]
+crawl = ["crawl4ai>=0.4.0"]
+search = ["duckduckgo-search>=5.0"]
+all = ["crawl4ai>=0.4.0", "duckduckgo-search>=5.0"]
+dev = ["pytest>=7.0", "pytest-asyncio>=0.21", "mypy>=1.0", "ruff>=0.1.0"]
+
+[project.urls]
+Homepage = "https://github.com/collectibles-valuation/collectibles-valuation"
+Documentation = "https://github.com/collectibles-valuation/collectibles-valuation/blob/main/README.md"
+Issues = "https://github.com/collectibles-valuation/collectibles-valuation/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+collectibles_valuation = ["py.typed"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_ignores = true
+disallow_untyped_defs = true
+
+[tool.ruff]
+line-length = 100

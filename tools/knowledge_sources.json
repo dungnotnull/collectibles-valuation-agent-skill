@@ -1,0 +1,74 @@
+{
+  "sources": [
+    {
+      "name": "PCGS CoinFacts Price Guide",
+      "domain": "pcgs.com",
+      "kind": "price_guide"
+    },
+    {
+      "name": "NGC Coin Price Guide",
+      "domain": "ngccoin.com",
+      "kind": "price_guide"
+    },
+    {
+      "name": "PSA Population Report",
+      "domain": "psacard.com",
+      "kind": "population_report"
+    },
+    {
+      "name": "Beckett Grading Services Population Report",
+      "domain": "beckett.com",
+      "kind": "population_report"
+    },
+    {
+      "name": "CGC Cards Population Report",
+      "domain": "cgccards.com",
+      "kind": "population_report"
+    },
+    {
+      "name": "Heritage Auctions Prices Realized",
+      "domain": "ha.com",
+      "kind": "auction_prices"
+    },
+    {
+      "name": "Sotheby's Auction Results",
+      "domain": "sothebys.com",
+      "kind": "auction_prices"
+    },
+    {
+      "name": "NAWCC Research Library",
+      "domain": "nawcc.org",
+      "kind": "research_library"
+    },
+    {
+      "name": "Scott Catalogue",
+      "domain": "amosadvantage.com",
+      "kind": "catalogue"
+    },
+    {
+      "name": "Stanley Gibbons Catalogues",
+      "domain": "stanleygibbons.com",
+      "kind": "catalogue"
+    }
+  ],
+  "queries": [
+    "auction realized price trends collectibles",
+    "trading card grading population report",
+    "counterfeit detection numismatics",
+    "vintage watch market index"
+  ],
+  "domain_keywords": [
+    "rarity",
+    "condition",
+    "grade",
+    "authenticity",
+    "provenance",
+    "demand",
+    "liquidity",
+    "auction",
+    "realized price",
+    "population report",
+    "counterfeit",
+    "market index"
+  ]
+}

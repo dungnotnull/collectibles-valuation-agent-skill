@@ -1,0 +1,110 @@
+[
+  {
+    "title": "PCGS CoinFacts Price Guide",
+    "authors": "Professional Coin Grading Service",
+    "year": 2026,
+    "venue": "PCGS",
+    "url": "https://www.pcgs.com/prices",
+    "key_finding": "Market-driven price ranges for U.S. and world coins tied to certified Sheldon 1-70 grades.",
+    "relevance": "Primary comparable-sales reference for coin valuations."
+  },
+  {
+    "title": "NGC Coin Price Guide",
+    "authors": "Numismatic Guaranty Company",
+    "year": 2026,
+    "venue": "NGC",
+    "url": "https://www.ngccoin.com/price-guide/",
+    "key_finding": "Certified coin values by grade, mintage, and market; supports Sheldon-scale normalization.",
+    "relevance": "Cross-reference auction/dealer prices for coins."
+  },
+  {
+    "title": "PSA Population Report",
+    "authors": "Professional Sports Authenticator",
+    "year": 2026,
+    "venue": "PSA",
+    "url": "https://www.psacard.com/pop/",
+    "key_finding": "Quantified scarcity of trading cards by grade; informs rarity and demand dimensions.",
+    "relevance": "Authoritative rarity/grade reference for card valuations."
+  },
+  {
+    "title": "Beckett Grading Services Population Report",
+    "authors": "Beckett Collectibles",
+    "year": 2026,
+    "venue": "BGS",
+    "url": "https://www.beckett.com/grading/pop-report",
+    "key_finding": "Card population and sub-grade data (centering, corners, edges, surface).",
+    "relevance": "Alternative population source for trading-card valuations."
+  },
+  {
+    "title": "CGC Cards Population Report",
+    "authors": "Certified Guaranty Company",
+    "year": 2026,
+    "venue": "CGC",
+    "url": "https://www.cgccards.com/pop-report/",
+    "key_finding": "Population counts for TCG, sports, and non-sports cards graded by CGC.",
+    "relevance": "Population reference for modern trading cards and TCGs."
+  },
+  {
+    "title": "Heritage Auctions Prices Realized",
+    "authors": "Heritage Auctions",
+    "year": 2026,
+    "venue": "Heritage Auctions",
+    "url": "https://coins.ha.com/ppr/rcmdz",
+    "key_finding": "Realized auction prices across coins, currency, comics, trading cards, and collectibles.",
+    "relevance": "Market-comparable evidence for multiple collectibles categories."
+  },
+  {
+    "title": "Sotheby's Auction Results",
+    "authors": "Sotheby's",
+    "year": 2026,
+    "venue": "Sotheby's",
+    "url": "https://www.sothebys.com/en/departments",
+    "key_finding": "Realized prices for watches, art, antiques, and rare objects.",
+    "relevance": "High-value comparable-sales reference for watches and antiques."
+  },
+  {
+    "title": "NAWCC Research Library",
+    "authors": "National Association of Watch and Clock Collectors",
+    "year": 2026,
+    "venue": "NAWCC",
+    "url": "https://nawcc.org/index.php/library-mainmenu-64",
+    "key_finding": "Horological research, serial databases, and condition-grading references for vintage timepieces.",
+    "relevance": "Core reference for watch authentication, rarity, and condition."
+  },
+  {
+    "title": "Scott Catalogue",
+    "authors": "Amos Media Company",
+    "year": 2026,
+    "venue": "Scott Publishing",
+    "url": "https://www.amosadvantage.com/Scott-Catalogues-s/1907.htm",
+    "key_finding": "Standard U.S. and world stamp catalogue values based on grade and scarcity.",
+    "relevance": "Primary catalogue reference for philatelic valuations."
+  },
+  {
+    "title": "Stanley Gibbons Catalogues",
+    "authors": "Stanley Gibbons Ltd.",
+    "year": 2026,
+    "venue": "Stanley Gibbons",
+    "url": "https://www.stanleygibbons.com/",
+    "key_finding": "Commonwealth and world stamp catalogue values and market commentary.",
+    "relevance": "Catalogue reference for British/Commonwealth stamp valuations."
+  },
+  {
+    "title": "Uniform Standards of Professional Appraisal Practice (USPAP)",
+    "authors": "The Appraisal Foundation",
+    "year": 2026,
+    "venue": "Appraisal Foundation",
+    "url": "https://www.appraisalfoundation.org/",
+    "key_finding": "Ethics and reporting standards governing fair-market and replacement-cost appraisals.",
+    "relevance": "Required framework for insurance and estate appraisal documentation."
+  },
+  {
+    "title": "International Society of Appraisers Member Resources",
+    "authors": "International Society of Appraisers",
+    "year": 2026,
+    "venue": "ISA",
+    "url": "https://www.isa-appraisers.org/",
+    "key_finding": "Personal-property appraisal standards, glossary, and guide to ISA/USPAP-compliant reports.",
+    "relevance": "Professional framework for antiques and personal-property valuation."
+  }
+]

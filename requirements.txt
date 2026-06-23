@@ -1,0 +1,2 @@
+﻿# Production runtime dependencies (stdlib-only core).
+# Optional crawler/search dependencies: install with `pip install -e ".[all]"`.
